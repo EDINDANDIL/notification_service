@@ -1,0 +1,9 @@
+cd auth_service
+gradle clean
+cd ..
+cd notification_service
+gradle clean
+cd ..
+cd worker
+gradle clean
+cd ..
